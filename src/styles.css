@@ -1,7 +1,2 @@
-html, body{height: 100%;}
-<<<<<<< HEAD
-body{margin: 0; font-family: Roboto,"Helvetica Neue",sans-serif;}
-=======
-body{margin: 0; font-family: Roboto,"Helvetica Neue",sans-serif;}
-
->>>>>>> 94f1b55d85b67bbdcfae6666a22a3626914d323f
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
